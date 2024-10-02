@@ -1,5 +1,5 @@
 # 💫 About Me:
-Systems analysis and development student<br>I'm currently working on Java projects with a focus on Java FullStack
+Systems Analysis and Development student currently focusing on backend development using Java and C#. I'm working on projects that leverage these technologies to build robust and efficient server-side applications.
 
 
 ## 🌐 Socials:
